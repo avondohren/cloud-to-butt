@@ -1,8 +1,6 @@
 gun-to-keytar
 =============
 
-![](logo.png)
-
 Chrome extension that replaces occurrences of 'gun' with 'keytar'
 
 [Direct download of crx file](https://github.com/avondohren/gun-to-keytar/blob/master/GunToKeytar.crx?raw=true)
